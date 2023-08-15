@@ -1,11 +1,16 @@
 _repo: Wrecked-on-the-Feejees_71347
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71347-h/images/cover.jpg
 creator:
   author:
     agent_name: Cary, William S.
     gutenberg_agent_id: '56186'
     url: http://www.gutenberg.org/2009/agents/56186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71347#Wrecked-on-the-Feejees
 gutenberg_issued: '2023-08-05'
 identifiers:
   gutenberg: '71347'
